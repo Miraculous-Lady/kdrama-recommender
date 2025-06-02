@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>K-Drama Recommender</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>K-Drama Recommender</h1>
+    <form method="POST">
+        <label for="mood">Choose your mood:</label>
+        <select name="mood">
+            <option value="romance">Romance</option>
+            <option value="thriller">Thriller</option>
+            <option value="comedy">Comedy</option>
+        </select>
+        <button type="submit">Recommend</button>
+    </form>
+    {% if recommendation %}
+        <h2>Watch: {{ recommendation }}</h2>
+    {% endif %}
+</body>
+</html>
