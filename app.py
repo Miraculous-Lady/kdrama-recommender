@@ -10,13 +10,13 @@ kdramas = {
             "name": "Crash Landing on You",
             "poster": "/static/posters/cloy.jpeg",
             "rating": 4.9,
-            "trailer": "https://youtu.be/GVQGWgeVc4k?si=2Pv61CkbOHtVrlYS"
+            "trailer": "https://www.youtube.com/embed/GVQGWgeVc4k"
         },
         {
             "name": "Business Proposal",
             "poster": "/static/posters/bp.jpeg",
             "rating": 4.6,
-            "trailer": "https://youtu.be/mh4R-WXRhQo?si=Bbd8a5cXd554-I7N"
+            "trailer": "https://www.youtube.com/embed/mh4R-WXRhQo"
         }
     ],
     "action": [
@@ -24,13 +24,13 @@ kdramas = {
             "name": "Vincenzo",
             "poster": "/static/posters/vincenzo.jpg",
             "rating": 4.8,
-            "trailer": "https://youtu.be/_J8tYxYB_YU?si=BSGp5ApaKFs2Xj4T"
+            "trailer": "https://www.youtube.com/embed/_J8tYxYB_YU"
         },
         {
             "name": "Itaewon Class",
             "poster": "/static/posters/ic.jpg",
             "rating": 4.7,
-            "trailer": "https://youtu.be/NNP8m3gaaFE?si=4kVcylGDKu4E07UE"
+            "trailer": "https://www.youtube.com/embed/NNP8m3gaaFE"
         }
     ],
     "comedy": [
@@ -38,13 +38,13 @@ kdramas = {
             "name": "Welcome to Waikiki",
             "poster": "/static/posters/wtw.jpeg",
             "rating": 4.5,
-            "trailer": "https://youtu.be/AJ_eVJp-IuQ?si=cZYof0dzxrGlxOP_"
+            "trailer": "https://www.youtube.com/embed/AJ_eVJp-IuQ"
         },
         {
             "name": "Goblin",
             "poster": "/static/posters/goblin.jpeg",
             "rating": 4.9,
-            "trailer": "https://youtu.be/8AcNEVUzV4o?si=gTnIdB0WB8AgUsN1"
+            "trailer": "https://www.youtube.com/embed/8AcNEVUzV4o"
         }
     ]
 }
